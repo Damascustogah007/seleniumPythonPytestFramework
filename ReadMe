@@ -17,4 +17,28 @@ Check using ==> pip --version
 6. To verify webdriver-manager
 ==> pip show webdriver-manager
 
-7. Then go into the SeleniumBasics folder
+Pytest Framework
+install
+==> pip install -U pytest
+
+upgrade
+==> python.exe -m pip install --upgrade pip
+
+
+check version
+==> pytest --version
+
+to run markers
+==> pytest -m regression
+
+to show all markers
+==>  pytest --markers
+
+to run markers
+==> pytest -m regression -v
+
+to install pytest-html
+
+pip install pytest-html
+
+
