@@ -42,3 +42,4 @@ driver.switch_to.alert.accept()
 verify_prompt = (driver.find_element(By.XPATH, '//p[@id="demo1"]'))
 verify_prompt.is_displayed()
 print('Test Passed Successfully!')
+

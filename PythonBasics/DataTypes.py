@@ -51,7 +51,7 @@ print(str1.replace('o', 'e'))
 print(' '.join(str1))
 print(str1.split()) #Convert string to array
 
-print('###String###')
+print('###List###')
 #methods (len, append, insert, index, remove, sort, reverse, pop, slice [starting : ending], extend)
 lst1 = [1,2,3,4,5,6]
 print(len(lst1))
